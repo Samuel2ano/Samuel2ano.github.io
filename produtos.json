@@ -1,0 +1,63 @@
+[
+    {
+      "nome": "Pastel de Carne",
+      "preco": 7.00,
+      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB..."
+    },
+    {
+      "nome": "Coxinha de Frango",
+      "preco": 5.50,
+      "imagem": "https://images.unsplash.com/photo-1609156301834-3f0f7ecf4052?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "nome": "Esfiha de Carne",
+      "preco": 6.00,
+      "imagem": "https://images.unsplash.com/photo-1633613280562-5f4b9c77e849?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "nome": "Pão de Queijo",
+      "preco": 3.00,
+      "imagem": "https://images.unsplash.com/photo-1576866209830-4e8d3e08f34b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "nome": "Empada de Frango",
+      "preco": 4.50,
+      "imagem": "https://images.unsplash.com/photo-1657531064947-9adfcb0b77ae?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "nome": "Bauru no Pão",
+      "preco": 8.00,
+      "imagem": "https://images.unsplash.com/photo-1612197582431-f2c29c8fbb09?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "nome": "Kibe Recheado",
+      "preco": 4.00,
+      "imagem": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "nome": "Enroladinho de Salsicha",
+      "preco": 4.50,
+      "imagem": "https://www.minhareceita.com.br/app/uploads/2022/08/enroladinho-de-salsicha-portal-minha-receita-2.jpg"
+    },
+    {
+      "nome": "Mini Pizza",
+      "preco": 6.00,
+      "imagem": "https://images.unsplash.com/photo-1603052875673-cd3eab6cf664?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "nome": "Risole Presunto & Queijo",
+      "preco": 4.00,
+      "imagem": ""
+    },
+    {
+      "nome": "Bolinha de Queijo",
+      "preco": 3.50,
+      "imagem": "https://i.panelinha.com.br/i1/bk-2056-bolinha-de-queijo.webp"
+    },
+    {
+      "nome": "Pastel de Pizza",
+      "preco": 7.50,
+      "imagem": ""
+    }
+  ]
+  
