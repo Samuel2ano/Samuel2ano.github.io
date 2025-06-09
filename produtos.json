@@ -1,63 +1,244 @@
-[
+{
+  "categorias": [
     {
-      "nome": "Pastel de Carne",
-      "preco": 7.00,
-      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB..."
+      "nome": "Ficção Científica",
+      "livros": [
+        {
+          "titulo": "Duna",
+          "autor": "Frank Herbert",
+          "isbn": "9780441013593",
+          "ano_publicacao": 1965,
+          "disponivel": true
+        },
+        {
+          "titulo": "Fundação",
+          "autor": "Isaac Asimov",
+          "isbn": "9780553293357",
+          "ano_publicacao": 1951,
+          "disponivel": false
+        },
+        {
+          "titulo": "Neuromancer",
+          "autor": "William Gibson",
+          "isbn": "9780441569595",
+          "ano_publicacao": 1984,
+          "disponivel": true
+        },
+        {
+          "titulo": "O Fim da Infância",
+          "autor": "Arthur C. Clarke",
+          "isbn": "9780345444059",
+          "ano_publicacao": 1953,
+          "disponivel": true
+        },
+        {
+          "titulo": "Snow Crash",
+          "autor": "Neal Stephenson",
+          "isbn": "9780553380958",
+          "ano_publicacao": 1992,
+          "disponivel": false
+        }
+      ]
     },
     {
-      "nome": "Coxinha de Frango",
-      "preco": 5.50,
-      "imagem": "https://images.unsplash.com/photo-1609156301834-3f0f7ecf4052?auto=format&fit=crop&w=400&q=80"
+      "nome": "Romance",
+      "livros": [
+        {
+          "titulo": "Orgulho e Preconceito",
+          "autor": "Jane Austen",
+          "isbn": "9780141439518",
+          "ano_publicacao": 1813,
+          "disponivel": true
+        },
+        {
+          "titulo": "Dom Casmurro",
+          "autor": "Machado de Assis",
+          "isbn": "9788535910666",
+          "ano_publicacao": 1899,
+          "disponivel": true
+        },
+        {
+          "titulo": "Jane Eyre",
+          "autor": "Charlotte Brontë",
+          "isbn": "9780141441146",
+          "ano_publicacao": 1847,
+          "disponivel": false
+        },
+        {
+          "titulo": "O Morro dos Ventos Uivantes",
+          "autor": "Emily Brontë",
+          "isbn": "9780141439556",
+          "ano_publicacao": 1847,
+          "disponivel": true
+        },
+        {
+          "titulo": "Anna Kariênina",
+          "autor": "Liev Tolstói",
+          "isbn": "9788583861661",
+          "ano_publicacao": 1877,
+          "disponivel": false
+        }
+      ]
     },
     {
-      "nome": "Esfiha de Carne",
-      "preco": 6.00,
-      "imagem": "https://images.unsplash.com/photo-1633613280562-5f4b9c77e849?auto=format&fit=crop&w=400&q=80"
+      "nome": "Fantasia",
+      "livros": [
+        {
+          "titulo": "O Senhor dos Anéis",
+          "autor": "J.R.R. Tolkien",
+          "isbn": "9780261103252",
+          "ano_publicacao": 1954,
+          "disponivel": true
+        },
+        {
+          "titulo": "Harry Potter e a Pedra Filosofal",
+          "autor": "J.K. Rowling",
+          "isbn": "9788532511019",
+          "ano_publicacao": 1997,
+          "disponivel": true
+        },
+        {
+          "titulo": "As Crônicas de Nárnia",
+          "autor": "C.S. Lewis",
+          "isbn": "9780066238500",
+          "ano_publicacao": 1956,
+          "disponivel": false
+        },
+        {
+          "titulo": "A Canção do Sangue",
+          "autor": "Anthony Ryan",
+          "isbn": "9788576799014",
+          "ano_publicacao": 2012,
+          "disponivel": true
+        },
+        {
+          "titulo": "Mistborn: O Império Final",
+          "autor": "Brandon Sanderson",
+          "isbn": "9788578270696",
+          "ano_publicacao": 2006,
+          "disponivel": true
+        }
+      ]
     },
     {
-      "nome": "Pão de Queijo",
-      "preco": 3.00,
-      "imagem": "https://images.unsplash.com/photo-1576866209830-4e8d3e08f34b?auto=format&fit=crop&w=400&q=80"
+      "nome": "Suspense / Mistério",
+      "livros": [
+        {
+          "titulo": "O Silêncio dos Inocentes",
+          "autor": "Thomas Harris",
+          "isbn": "9788532528567",
+          "ano_publicacao": 1988,
+          "disponivel": false
+        },
+        {
+          "titulo": "Garota Exemplar",
+          "autor": "Gillian Flynn",
+          "isbn": "9788580573741",
+          "ano_publicacao": 2012,
+          "disponivel": true
+        },
+        {
+          "titulo": "O Código Da Vinci",
+          "autor": "Dan Brown",
+          "isbn": "9788575422395",
+          "ano_publicacao": 2003,
+          "disponivel": false
+        },
+        {
+          "titulo": "A Garota no Trem",
+          "autor": "Paula Hawkins",
+          "isbn": "9788580578012",
+          "ano_publicacao": 2015,
+          "disponivel": true
+        },
+        {
+          "titulo": "Os Homens que Não Amavam as Mulheres",
+          "autor": "Stieg Larsson",
+          "isbn": "9780349139054",
+          "ano_publicacao": 2005,
+          "disponivel": true
+        }
+      ]
     },
     {
-      "nome": "Empada de Frango",
-      "preco": 4.50,
-      "imagem": "https://images.unsplash.com/photo-1657531064947-9adfcb0b77ae?auto=format&fit=crop&w=400&q=80"
+      "nome": "Não Ficção",
+      "livros": [
+        {
+          "titulo": "Sapiens: Uma Breve História da Humanidade",
+          "autor": "Yuval Noah Harari",
+          "isbn": "9788535922683",
+          "ano_publicacao": 2011,
+          "disponivel": true
+        },
+        {
+          "titulo": "O Andar do Bêbado",
+          "autor": "Leonard Mlodinow",
+          "isbn": "9788537809005",
+          "ano_publicacao": 2008,
+          "disponivel": false
+        },
+        {
+          "titulo": "O Gene: Uma História Íntima",
+          "autor": "Siddhartha Mukherjee",
+          "isbn": "9788535928203",
+          "ano_publicacao": 2016,
+          "disponivel": true
+        },
+        {
+          "titulo": "Como as Democracias Morrem",
+          "autor": "Steven Levitsky e Daniel Ziblatt",
+          "isbn": "9788537818373",
+          "ano_publicacao": 2018,
+          "disponivel": true
+        },
+        {
+          "titulo": "O Poder do Hábito",
+          "autor": "Charles Duhigg",
+          "isbn": "9788539004118",
+          "ano_publicacao": 2012,
+          "disponivel": false
+        }
+      ]
     },
     {
-      "nome": "Bauru no Pão",
-      "preco": 8.00,
-      "imagem": "https://images.unsplash.com/photo-1612197582431-f2c29c8fbb09?auto=format&fit=crop&w=400&q=80"
-    },
-    {
-      "nome": "Kibe Recheado",
-      "preco": 4.00,
-      "imagem": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=400&q=80"
-    },
-    {
-      "nome": "Enroladinho de Salsicha",
-      "preco": 4.50,
-      "imagem": "https://www.minhareceita.com.br/app/uploads/2022/08/enroladinho-de-salsicha-portal-minha-receita-2.jpg"
-    },
-    {
-      "nome": "Mini Pizza",
-      "preco": 6.00,
-      "imagem": "https://images.unsplash.com/photo-1603052875673-cd3eab6cf664?auto=format&fit=crop&w=400&q=80"
-    },
-    {
-      "nome": "Risole Presunto & Queijo",
-      "preco": 4.00,
-      "imagem": ""
-    },
-    {
-      "nome": "Bolinha de Queijo",
-      "preco": 3.50,
-      "imagem": "https://i.panelinha.com.br/i1/bk-2056-bolinha-de-queijo.webp"
-    },
-    {
-      "nome": "Pastel de Pizza",
-      "preco": 7.50,
-      "imagem": ""
+      "nome": "Biografias",
+      "livros": [
+        {
+          "titulo": "Steve Jobs",
+          "autor": "Walter Isaacson",
+          "isbn": "9788539004118",
+          "ano_publicacao": 2011,
+          "disponivel": true
+        },
+        {
+          "titulo": "Longa Caminhada até a Liberdade",
+          "autor": "Nelson Mandela",
+          "isbn": "9788535907277",
+          "ano_publicacao": 1994,
+          "disponivel": true
+        },
+        {
+          "titulo": "Leonardo da Vinci",
+          "autor": "Walter Isaacson",
+          "isbn": "9788539007799",
+          "ano_publicacao": 2017,
+          "disponivel": false
+        },
+        {
+          "titulo": "Minha História",
+          "autor": "Michelle Obama",
+          "isbn": "9788551003383",
+          "ano_publicacao": 2018,
+          "disponivel": true
+        },
+        {
+          "titulo": "Einstein: Sua Vida e Universo",
+          "autor": "Walter Isaacson",
+          "isbn": "9788539001049",
+          "ano_publicacao": 2007,
+          "disponivel": false
+        }
+      ]
     }
   ]
-  
+}
